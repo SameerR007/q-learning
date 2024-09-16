@@ -35,4 +35,5 @@ An interactive Streamlit app is available to visualize and interact with the Q-l
 2. **Play**: After training, click "Computer Plays" to watch the agent navigate the FrozenLake environment using the learned policy. You can see the agent's steps and its environment renderings.
 
 ## Resources
+The theoretical background and code for this project are largely based on the following resource:
 [Hugging Face Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
