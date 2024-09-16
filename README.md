@@ -11,6 +11,16 @@ This project implements a Q-learning algorithm to solve the FrozenLake-v1 enviro
 
 The agent learns through multiple episodes by interacting with the environment, updating its Q-table based on rewards and future expectations. After training, it navigates the frozen lake efficiently by following the optimal learned policy.
 
+## Visualizations
+
+The following images demonstrate the training and testing phases of the Q-learning algorithm:
+
+- **Training Progress**: Shows how the agent learns to navigate the frozen lake over training episodes.
+  - ![Training](training.png)
+
+- **Testing Performance**: Shows how the agent performs after training for 1000 episodes.
+  - ![Testing](test.png)
+
 ## Streamlit App
 
 An interactive Streamlit app is available to visualize and interact with the Q-learning process:
