@@ -36,4 +36,4 @@ An interactive Streamlit app is available to visualize and interact with the Q-l
 
 ## Resources
 The theoretical background and code for this project are largely based on the following resource:
--[Hugging Face Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+- [Hugging Face Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
