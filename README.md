@@ -1,6 +1,6 @@
 # FrozenLake Q-Learning
 
-This project implements a Q-learning algorithm to solve the FrozenLake-v1 environment from OpenAI's Gymnasium. The agent is trained to navigate a 4x4 grid of ice to reach the goal while avoiding holes, using a model-free reinforcement learning approach.
+This project implements a Q-learning algorithm to solve the FrozenLake-v1 environment from OpenAI's Gymnasium. The agent is trained to navigate a 4x4 grid of ice to reach the goal while avoiding holes, using a reinforcement learning approach.
 
 ## Overview
 
