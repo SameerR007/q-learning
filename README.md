@@ -15,7 +15,7 @@ The agent learns through multiple episodes by interacting with the environment, 
 
 An interactive Streamlit app is available to visualize and interact with the Q-learning process:
 
-- **[Play with the Streamlit App](your-streamlit-app-url)**
+- **[Play with the Streamlit App](https://sameerrawat07-q-learning.hf.space)**
 
 ### How to Use the Streamlit App
 
