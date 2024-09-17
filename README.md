@@ -40,6 +40,6 @@ The theoretical background and code for this project are largely based on the fo
 
 # Update
 
-In addition to classical Q-Learning, this project also implements Deep Q-Learning (DQN) to address environments with larger state spaces. DQN leverages neural networks to approximate the Q-values, making it feasible to handle more complex problems where a Q-table would be impractical.
+In extension to classical Q-Learning, there is Deep Q-Learning (DQN) to address environments with larger state spaces. DQN leverages neural networks to approximate the Q-values, making it feasible to handle more complex problems where a Q-table would be impractical.
 
 For more details, including the implementation code and additional documentation, please visit the [Deep Q-Learning Repository](https://github.com/SameerR007/deep-q-learning).
